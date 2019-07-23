@@ -1,0 +1,22 @@
+{
+  "name": "story-draw",
+  "version": "0.0.1",
+  "description": "using the quick draw dataset to draw stories",
+  "main": "index.js",
+  "engines": {
+    "node": "6.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "jumahe",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/speech": "0.10.2",
+    "express": "^4.16.2",
+    "node-record-lpcm16": "0.3.0",
+    "socket.io": "^1.7.3",
+    "util": "^0.10.3"
+  }
+}
