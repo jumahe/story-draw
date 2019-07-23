@@ -60,5 +60,8 @@ typings/
 # next.js build output
 .next
 
+# hidden MAC files
+.DS_Store
+
 # Google Credentials
 speech-demo-e03376f2d954.json
