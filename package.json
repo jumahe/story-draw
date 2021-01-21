@@ -16,7 +16,7 @@
     "@google-cloud/speech": "0.10.2",
     "express": "^4.16.2",
     "node-record-lpcm16": "0.3.0",
-    "socket.io": "^1.7.3",
+    "socket.io": "^2.4.0",
     "util": "^0.10.3"
   }
 }
